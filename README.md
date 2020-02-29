@@ -7,7 +7,7 @@ Use this template to create web apps using the svelte framework.
 In glitch, click on the `New Project` button and click clone from git repo.
 
 ```
-https://gitlab.com/twilson63/webapp
+https://github.com/twilson63/webapp.git
 ```
 
 
